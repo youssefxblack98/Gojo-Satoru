@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+201014511691']
-global.premium = ['+201014511691']
+global.owner = ['201014511691']
+global.premium = ['201014511691']
 global.ownernomer = 'https://wa.me/+201014511691'
 global.ownername = 'lEVI-ACKERMAN'
 global.botname = 'AZAZEL'
