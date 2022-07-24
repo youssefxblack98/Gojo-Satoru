@@ -36,8 +36,8 @@ global.prefa = ['','!','.','🦉','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: '!انت مش ادمن ينجم ',
-    botAdmin: '!هات ادمن ي نجم ',
+    admin: 'انت مش ادمن ينجم! ',
+    botAdmin: 'هات ادمن ي نجم! ',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
