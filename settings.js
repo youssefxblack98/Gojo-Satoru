@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['201014511691']
 global.premium = ['201014511691']
 global.ownernomer = 'https://wa.me/+201014511691'
-global.ownername = 'lEVI-ACKERMAN'
-global.botname = 'AZAZEL'
+global.ownername = '𝐊.𝐋.𝐒 | 𝐋𝐄𝐕𝐈'
+global.botname = 'LEVI-ACKERMAN'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
@@ -36,8 +36,8 @@ global.prefa = ['','!','.','🦉','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: '!انت مش ادمن ينجم ',
+    botAdmin: '!هات ادمن ي نجم ',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
