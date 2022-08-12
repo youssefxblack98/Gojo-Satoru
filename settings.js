@@ -29,7 +29,7 @@ global.ig = 'https://www.tiktok.com/@levi.ackermany?_t=8UFWf52C9pe&_r=1'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://wa.me/+201014511691'
-global.packname = '⁦𝙻𝙴𝚅𝙸𓆩⚚𓆪'
+global.packname = '⁦ ⁦𓆩𝙻𝙴𝚅𝙸𓆪'
 global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🦉','🐤','🗿']
