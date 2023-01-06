@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['201029685606']
+global.owner = ['201029685603']
 global.premium = ['201029685603']
 global.ownernomer = 'https://wa.me/+201014511691'
 global.ownername = '𝖒𝖔𝖗𝖕𝖍𝖊𝖚𝖘'
