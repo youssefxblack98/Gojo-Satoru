@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['201014511691']
-global.premium = ['201014511691']
+global.owner = ['201029685606']
+global.premium = ['201029685603']
 global.ownernomer = 'https://wa.me/+201014511691'
-global.ownername = '𝐊.𝐋.𝐒 | 𝐋𝐄𝐕𝐈'
-global.botname = 'LEVI-ACKERMAN'
+global.ownername = '𝖒𝖔𝖗𝖕𝖍𝖊𝖚𝖘'
+global.botname = '𝖒𝖔𝖗𝖕𝖍𝖊𝖚𝖘'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://www.tiktok.com/@levi.ackermany?_t=8UFWf52C9pe&_r=1'
+global.ig = 'tiktok.com/@7v3_x'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://www.instagram.com/invites/contact/?i=tjmg1yayqgre&utm_content=fpv26z1'
+global.sc = 'https://instagram.com/7v3_x?igshid=Yzg5MTU1MDY='
 global.myweb = 'https://wa.me/+201014511691'
-global.packname = '⁦⁦𝙻𝙴𝚅𝙸 𓆩⚚𓆪'
+global.packname = '⁦⁦𝖒𝖔𝖗𝖕𝖍𝖊𝖚𝖘'
 global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🦉','🐤','🗿']
